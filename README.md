@@ -11,7 +11,6 @@ available CT reconstruction code developed by Dr. Fessler [2]. The package runs 
 Contact for questions
 
 Rongping Zeng 
-
 rongping.zeng@fda.hhs.gov
 
 
