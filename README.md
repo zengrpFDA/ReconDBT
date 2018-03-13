@@ -8,8 +8,10 @@ technique (SART) and maximum likelihood (ML), are included in this package. They
 the common circular-arc trajectory DBT and non-circular arc trajectory DBT. ReconDBT is built on top of the publically
 available CT reconstruction code developed by Dr. Fessler [2]. The package runs on Linux and Mac operating systems. Note that it does not run on Windows operating systems because Fessler’s CT reconstruction package does not support Windows system.
 
-Contact for questions:
+Contact for questions
+
 Rongping Zeng 
+
 rongping.zeng@fda.hhs.gov
 
 
